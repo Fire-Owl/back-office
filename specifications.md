@@ -82,13 +82,9 @@ On monte encore d'un niveau avec les étiquettes : il faut bien sûr une table d
 
 - la table « screenshots »
     - id (pk)
+    - project_id (sk)
     - screenshot_name
     - screenshot_alt_text
-
-- la table « projects_screenshots » 
-    - id (pk)
-    - project_id (sk)
-    - screenshot_id (sk)
 
 - la table « tags »
     - id (pk)
