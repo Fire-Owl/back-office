@@ -72,7 +72,6 @@ On monte encore d'un niveau avec les étiquettes : il faut bien sûr une table d
     - technical_specifications
     - functional_specifications
     - thumbnail
-    - galery
     - coworkers
     - technologies
     - project_link
